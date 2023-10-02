@@ -71,21 +71,21 @@ fun ArtSpaceApp(modifier: Modifier = Modifier){
     val list = ArrayList<Card>(3)
 
     list.add(Card(
-        R.drawable.image_1,
+        R.drawable.email,
         R.string.image_name_1,
         R.string.author_1,
         R.string.year_1
     ))
 
     list.add(Card(
-        R.drawable.image_2,
+        R.drawable.share,
         R.string.image_name_2,
         R.string.author_2,
         R.string.year_2
     ))
 
     list.add(Card(
-        R.drawable.image_3,
+        R.drawable.telephone_handle_silhouette,
         R.string.image_name_3,
         R.string.author_3,
         R.string.year_3
