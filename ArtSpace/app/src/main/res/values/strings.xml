@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="image_name_1">First side of dice</string>
+    <string name="image_name_2">Two points</string>
+    <string name="image_name_3">Random give me a three</string>
+    <string name="author_1">Ivan Ivanov</string>
+    <string name="author_2">Ryan Gosling</string>
+    <string name="author_3">Bill Jones</string>
+    <string name="year_1">2012</string>
+    <string name="year_2">2023</string>
+    <string name="year_3">1999</string>
+</resources>
